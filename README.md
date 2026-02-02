@@ -1,0 +1,2 @@
+# lighthouse-test
+Test task
